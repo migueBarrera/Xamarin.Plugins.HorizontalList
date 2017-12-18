@@ -20,6 +20,8 @@ Properties
 > - ItemsSource : Soruce of List.
 > - ItemTemplate : Template for item.  It's needed to work.
 > - ListOrientation = Default is Vertical.
+> - SelectedItem .
+> - SelectedCommand .
 
 How use it
 -------------
